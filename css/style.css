@@ -753,7 +753,7 @@ a:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 100px 10px 45px 10px;
+  padding: 100px 120px 45px 160px;
   background-color: #ffffff;
   width: 200px;
   border-radius: 0 0 50px 50px;
